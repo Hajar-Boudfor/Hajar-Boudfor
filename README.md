@@ -4,16 +4,16 @@
 👀 I’m interested in:
 - Cybersecurity & cryptographic protocols
 - Software development in C, Python, and Java
-- **Smart cards and Java Card development**
-- **Internet of Things (IoT) security**
-- **Reverse engineering & digital forensics**
+- Smart cards and Java Card development
+- Internet of Things (IoT) security
+- Reverse engineering & digital forensics
 - Research projects in mathematics and computer science
 
 🌱 I’m currently learning:
 - Advanced cryptographic techniques
 - Security protocols and software analysis
-- **Smart card programming and secure element development**
-- **Rétro-ingénierie (reverse engineering) techniques**
+- Smart card programming and secure element development
+- Rétro-ingénierie (reverse engineering) techniques
 - Docker and virtualization for security solutions
 
 
@@ -22,12 +22,12 @@
 💡 I’m currently working on:
 - Building practical projects on cryptography and security
 - Research projects in cryptography and its application in data security
-- **Exploring reverse engineering tools and techniques**
+- Exploring reverse engineering tools and techniques
 - Contributing to open-source cybersecurity tools
 
 📫 How to reach me:  
-[Your LinkedIn](https://linkedin.com/in/yourprofile)  
-[Your Email](mailto:boudfor.student@gmail.com)
+[LinkedIn](https://linkedin.com/in/yourprofile)  
+[Email](mailto:boudfor.student@gmail.com)
 
 ✨ Feel free to explore my repos for a glimpse of my skills and interests in cryptology, smart cards, IoT, and cybersecurity!
 
