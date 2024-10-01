@@ -23,7 +23,6 @@
 - Building practical projects on cryptography and security
 - Research projects in cryptography and its application in data security
 - Exploring reverse engineering tools and techniques
-- Contributing to open-source cybersecurity tools
 
 📫 How to reach me:  
 [LinkedIn](https://linkedin.com/in/yourprofile)  
