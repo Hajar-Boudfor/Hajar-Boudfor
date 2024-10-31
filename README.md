@@ -1,5 +1,4 @@
-👋 Hi, I’m @Hajar-Boudfor  
-🔐 I’m a Master's student in Cryptology and Information Security at the University of Limoges, with a focus on cryptography, cybersecurity and secure software development.
+ 🔐 Hi I’m a Master's student in Cryptology and Information Security at the University of Limoges, with a focus on cryptography, cybersecurity and secure software development.
 
  I’m interested in:
 - Cybersecurity & cryptographic protocols
